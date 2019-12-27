@@ -1,1 +1,1 @@
-Description in Archiver/Description.txt
+Description in GZipTest/Description.txt
